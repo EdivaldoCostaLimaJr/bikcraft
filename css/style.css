@@ -10,9 +10,6 @@
 /*utilidades*/
 @import "../css/utilidades/componentes.css";
 
-/*bicicletas*/
-@import url("../css/bicicletas/bicicletas-lista.css");
-
-
-
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
 
