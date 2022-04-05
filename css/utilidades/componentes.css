@@ -20,6 +20,7 @@
     max-width: max-content; /*vai ter o máximo do conteúdo dele*/
     border: none;
     cursor: pointer;
+    
   }
   
   .botao:hover {

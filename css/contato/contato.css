@@ -50,7 +50,7 @@
     color: var(--cor-0);
 }
 
-.contato-meios a:first-child{
+.contato-meios a:first-child {
     background: url(../../img/icones/email.svg) no-repeat 0px 2px;
 }
 
@@ -100,3 +100,5 @@ border-radius: 0 0 5px 5px;
 
 .contato-redes {
     margin-bottom: 12px; }
+
+}
